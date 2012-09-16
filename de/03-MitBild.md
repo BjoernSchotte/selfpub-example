@@ -2,6 +2,6 @@
 
 Denn hier kommt nun das Bild:
 
-![Bild]((../images/120px-Fruchtfliegen-Larven.jpeg))
+![Dies ist ein Bild](../images/120px-Fruchtfliegen-Larven.jpeg)
 
 
