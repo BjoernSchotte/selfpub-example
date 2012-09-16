@@ -27,6 +27,6 @@ As you see, you can have as many languages for your ebook as you want - "de" and
 
 The file names of the chapters are as you like, prefixing them with numbers as you go.
 
-# contribute
+# contributing
 
 If you want to contribute, please create a feature branch and open a pull request, or open github issues if you want to report bugs.
