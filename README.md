@@ -20,8 +20,9 @@ cover
 images                   → contains images you refer from your chapters
 epub                     → contains epub specific files
  └ metadata.xml          → dublin core metadata
+out                      → directory which contains the generated eBook files, on demand
 ```
 
-As you see, you can have as many languages for your ebook as you want - "de" and "en" comes by default in the directory structure.
+As you see, you can have as many languages for your ebook as you want - "de" and "en" comes by default in the directory structure. The language prefix must also be when you define the cover image.
 
 The file names of the chapters are as you like, prefixing them with numbers as you go.
