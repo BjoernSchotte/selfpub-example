@@ -26,3 +26,7 @@ out                      → directory which contains the generated eBook files,
 As you see, you can have as many languages for your ebook as you want - "de" and "en" comes by default in the directory structure. The language prefix must also be when you define the cover image.
 
 The file names of the chapters are as you like, prefixing them with numbers as you go.
+
+# contribute
+
+If you want to contribute, please create a feature branch and open a pull request, or open github issues if you want to report bugs.
