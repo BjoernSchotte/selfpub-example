@@ -1,7 +1,7 @@
 selfpub-example
 ===============
 
-Example selfpub ebook source
+Example selfpub ebook source. See [selfpub](https://github.com/BjoernSchotte/selfpub) for ebook build scripts.
 
 # standard ebook layout
 
