@@ -1,0 +1,2 @@
+% Example selfpub github based eBook
+% Björn Schotte
